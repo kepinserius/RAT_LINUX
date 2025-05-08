@@ -1,0 +1,62 @@
+# Compiled Object files
+*.o
+*.ko
+*.obj
+*.elf
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+bin/
+bin/server
+bin/client
+
+# Debug files
+*.dSYM/
+
+# Build directories
+build/
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Project specific
+# Hasil capture screenshot dan webcam
+screenshot_*
+webcam_*
+audio_*
+
+# Temporary files
+*.log
+*.tmp
+core
+core.*
+
+# OS specific
+.DS_Store
+Thumbs.db
+
+# OpenSSL
+*.pem
+*.key
+*.crt 
